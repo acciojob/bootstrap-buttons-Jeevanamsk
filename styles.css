@@ -1,15 +1,19 @@
 
 /* Your CSS Code here. */
-#button-1{
+#button-1,#button-2,#button-6,#button-7,#button-8{
 	height:32px;
 	font-size:13px;	
 }
 #button-2{
-	height:32px;
 	border: 1px solid;
-	font-size:13px;
+	background-color:white;
+	color:gray;
+	
 }
 #button-4{
 	height:28px;
 	font-size:10px;
+}
+#button-6{
+	color:gray;
 }
